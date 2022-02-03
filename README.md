@@ -29,7 +29,6 @@ Awesome critique of crypto/web3, etc. Contributions are welcome.
   - [Bitcoin: The Postmodern Ponzi](https://www.stephendiehl.com/blog/ponzi.html) - February 27, 2021
   - [The Crypto Chernobyl](https://www.stephendiehl.com/blog/chernobyl.html) - February 10, 2021
   - [Gamestop, Bitcoin and the Commoditization of Populist Rage](https://www.stephendiehl.com/blog/gamestop.html) - February 3, 2021
-* Cory Doctorow [The Inevitability of Third Parties](https://onezero.medium.com/the-inevitability-of-trusted-third-parties-a51cbcffc4e2) - 2022-02-01
 * [Today on Sick Sad World: How The Cryptobros Have Fallen](https://www.jwz.org/blog/2022/01/today-on-sick-sad-world-how-the-cryptobros-have-fallen/) - 2022-01-04 by Jamie Zawinski (legendary coder, co-founder of Mozilla etc.)
 * [Web3 First Impressions](https://moxie.org/2022/01/07/web3-first-impressions.html) - 2022-01-07 Moxie Marlinspike, co-founder of Signal etc.
 * [Bitcoin, Currencies, and Fragility by Nassim Taleb - 27 Jun 2021](https://arxiv.org/abs/2106.14204) - highly critical paper by author Black Swan etc.
